@@ -4,14 +4,10 @@ Welcome to the NTUST Civil Engineering Toolpack! This repository contains a coll
 
 ## Features
 
-- **Soil Mechanics Tools**: Calculate and analyze soil consolidation results, including CIU tests.
-- **Structural Analysis**: Perform detailed analysis of structural components and systems.
-- **Hydraulics**: Tools for fluid dynamics and hydraulic engineering calculations.
-- **Material Science**: Analyze and test the properties of construction materials.
-- **Surveying**: Utilities for land surveying and geospatial data analysis.
-- **Construction Management**: Project planning and management tools to streamline construction processes.
-- **Transportation Engineering**: Evaluate and design transportation systems and infrastructure.
-
+- **CIU test**: Conduct and interpret soil consolidation tests, focusing on CIU (Consolidated Undrained) test results to determine the mechanical properties of soil. 半圓
+- **Cassagrande Analysis**: Execute comprehensive analyses of structural components and systems, applying Casagrande's principles to evaluate soil behavior and stability. 
+- **Taylor Analysis**: Utilize advanced tools and methodologies for fluid dynamics and hydraulic engineering calculations, employing Taylor's principles to model and solve complex flow problems.
+  
 ## Installation
 
 Clone the repository and install the necessary dependencies:
@@ -36,13 +32,13 @@ Here's an example of how to use one of the tools in the Soil Mechanics directory
     cd soil-mechanics
     ```
 
-2. Run the Python script for the CIU test analysis:
+2. Input your data in the codebase.
+
+3. Run the Python script for the CIU test analysis:
 
     ```bash
     python ciu_test_analysis.py
     ```
-
-3. Follow the on-screen instructions to input your data and view the results.
 
 For more help, please contact b10831001@mail.ntust.edu.tw
 
