@@ -44,11 +44,11 @@ Here's an example of how to use one of the tools in the Soil Mechanics directory
 
 3. Follow the on-screen instructions to input your data and view the results.
 
-For more detailed usage, refer to the specific README files within each tool's directory.
+For more help, please contact b10831001@mail.ntust.edu.tw
 
 ## Contributing
 
-We welcome contributions from the community! If you have a tool or improvement to share, please fork the repository, make your changes, and submit a pull request. Be sure to follow our [contributing guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you have a tool or improvement to share, please fork the repository, make your changes, and submit a pull request.
 
 ## License
 
